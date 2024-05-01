@@ -84,3 +84,12 @@ ul {
   width: 360px;
   height: 300px;
 }
+
+#boxes {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box {
+  margin: 5px;
+}
